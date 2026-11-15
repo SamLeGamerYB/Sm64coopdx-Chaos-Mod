@@ -1,7 +1,7 @@
 # Sm64coopdx Chaos Mod
 [GTA V Chaos mod](https://www.gta5-mods.com/scripts/chaos-mod-v) to Super Mario 64
 
-**THIS MOD IS FOR SINGLEPLAYER ONLY, MULTIPLE PLAYERS ARE UNTESTED AND REALLY BUGGY**
+**THIS MOD IS FOR SINGLEPLAYER ONLY, MULTIPLAYERS ARE UNTESTED AND REALLY BUGGY**
 
 ## What?
 - [How does it work?](#How-does-it-work)
