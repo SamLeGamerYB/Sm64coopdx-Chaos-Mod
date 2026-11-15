@@ -1,7 +1,9 @@
 # Sm64coopdx Chaos Mod
 [GTA V Chaos mod](https://www.gta5-mods.com/scripts/chaos-mod-v) to Super Mario 64
 
-**THIS MOD IS FOR SINGLEPLAYER ONLY, MULTIPLAYERS ARE UNTESTED AND REALLY BUGGY**
+**THIS MOD IS MEANT FOR SINGLEPLAYER ONLY, MULTIPLAYERS ARE UNTESTED AND REALLY BUGGY**
+
+**This is a modified version of Sm64CoopDX, all the real mods should be working with it**
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N6C026X3OU)
 
@@ -15,7 +17,7 @@
 - [To-do list](#TO-DO)
 
 ## How does it work?
-It's easy: every X seconds (changeable in the settings), a random event can happen. The event could be instant or timed.
+It's easy, every X seconds (changeable in the settings), a random event can happen. The event could be instant or timed.
 
 D-pad Left: Enable the mod
 
@@ -30,13 +32,15 @@ sm64coopdx.exe
 coopdx_updater.exe            /- main.lua
 mods -------- TwitchChaosMod <
 discord_game_sdk.dll          \- readme.txt
-lang
+lang                           \-Audio
 palettes
 dynos
 coop.map
 ```
 3. Launch the game and activate the mod
 4. When you are in a save with 0 stars and you read the warning, you can say "/ireadit" in the chat (default keybind: enter)
+
+2. Unzip the folder
 
 ## Settings
 - You can toggle between "Offline Mod" (Random event every X seconds) or "Twitch Chaos" (Let people in the chat vote (by saying the number next to the event name) for the next event.
@@ -52,10 +56,13 @@ It's allowing people in the Twitch chat to vote by typing numbers from 1 to 4 an
 
 ### How to use Twitch Integration?
 Easy
-1. First install the mod ([Instruction here](#Installation))
-2. Go into the [settings](#Settings) and put Twitch Chaos
-3. In "Twitch Username," put your Twitch username. Example: twitch.tv/**samlegamergd** --> "samlegamergd"
-4. Close the menu and play the game!
+1. First install the latest release ([Instruction here](#Installation))
+2. Open the app "TwitchChaosCompanion.exe"
+3. Log-in to your Twitch account, this will ask you if the application can read your chat messages. Accept it
+4. Then, open sm64coopdx.exe (Always keep the TwitchChaosCompanion open, if he's close he can't read chat)
+5. Host a game, with the mod on
+6. When loaded in, go into the [settings](#Settings) put your Twitch username into the textbox.
+7. Close the menu and play the game, voilà!
 
 ## All the events
 ```
