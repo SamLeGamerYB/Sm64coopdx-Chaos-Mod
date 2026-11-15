@@ -96,8 +96,11 @@ Easy
 ```
 \* = Could cause epileptic seizure
 ## Information
+
 I don't know how to code so this mod has been created by ChatGPT (Sorry)
+
 Windows (Windows 9, Windows 10 and Windows 11) only so far
+
 If you want to add a new event [click here](https://github.com/SamLeGamerYB/Sm64coopdx-Chaos-Mod/issues/new?labels=Event%20Req.)
 
 ## TO-DO
