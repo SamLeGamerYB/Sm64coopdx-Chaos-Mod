@@ -41,7 +41,7 @@ coop.map
 - Twitch Username (If empty, the mod will automaticly put Offline mod)
 - Timer between events
 - Length of the events
-- All events can be toggled (!!one with the **"*" mean this could cause an epileptic seizure**!!)
+- All events can be toggled (**!! One with the "*" mean this could cause an epileptic seizure!!**)
 
 ## Twitch Integration
 
