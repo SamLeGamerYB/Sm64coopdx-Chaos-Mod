@@ -39,8 +39,7 @@ coop.map
 4. When you are in a save with 0 stars and you read the warning, you can say "/ireadit" in the chat (default keybind: enter)
 
 ## Settings
-- You can toggle between "Offline Mod" (Random event every X seconds) or "Twitch Chaos" (Let people in the chat vote (by saying the number next to the event name) for the next event.)
-- Speedrun: Enable a timer. (Please take note that it could be on Speedrun.com)
+- You can toggle between "Offline Mod" (Random event every X seconds) or "Twitch Chaos" (Let people in the chat vote (by saying the number next to the event name) for the next event.
 - Twitch Username (If empty, the mod will automatically put Offline mod)
 - Timer between events
 - Length of the events
