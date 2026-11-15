@@ -95,6 +95,7 @@ Easy
 - Fake Random Teleport (Executes the "Random Teleport" effect, except that you will go back where you were) [2 TP]
 - Fake Fake Random teleport (Executes the "Fake Random teleport" effect, except that you will go back where you were) [3 TP]
 - First Person (Makes the player's camera into Mario's head)
+- Coin Magnet (Makes the player a coin magnet)
 ```
 \* = Could cause an epileptic seizure
 
