@@ -16,6 +16,7 @@
 It's easy, every X secondes (changable in the settings) a random event can happen. The event could be instant or be timed
 
 D-pad Left: Enable the mod
+
 D-pad Right: Disable the mod
 
 ## Installation
