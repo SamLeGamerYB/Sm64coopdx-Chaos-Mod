@@ -3,6 +3,8 @@
 
 **THIS MOD IS FOR SINGLEPLAYER ONLY, MULTIPLAYERS ARE UNTESTED AND REALLY BUGGY**
 
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N6C026X3OU)
+
 ## What?
 - [How does it work?](#How-does-it-work)
 - [Installation](#Installation)
