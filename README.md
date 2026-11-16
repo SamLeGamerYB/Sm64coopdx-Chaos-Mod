@@ -42,7 +42,7 @@ coop.map
 
 ## Settings
 - You can toggle between "Offline Mod" (Random event every X seconds) or "Twitch Chaos" (Let people in the chat vote (by saying the number next to the event name) for the next event.
-- Twitch Username (If empty, the mod will automatically put Offline mod)
+- Use OAuth
 - Timer between events
 - Length of the events
 - All events can be toggled (**!! Ones with a "*" mean they could cause an epileptic seizure!!**)
