@@ -3,7 +3,7 @@
 
 **THIS MOD IS MEANT FOR SINGLEPLAYER ONLY, MULTIPLAYERS ARE UNTESTED AND REALLY BUGGY**
 
-**This is a modified version of Sm64CoopDX, all the real mods should be working with it**
+**Installing this mod will modifiy the gamefiles to have access to websocket** (This will do nothing for you execpt helping other modders)
 
 [![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N6C026X3OU)
 
@@ -40,8 +40,6 @@ coop.map
 3. Launch the game and activate the mod
 4. When you are in a save with 0 stars and you read the warning, you can say "/ireadit" in the chat (default keybind: enter)
 
-2. Unzip the folder
-
 ## Settings
 - You can toggle between "Offline Mod" (Random event every X seconds) or "Twitch Chaos" (Let people in the chat vote (by saying the number next to the event name) for the next event.
 - Twitch Username (If empty, the mod will automatically put Offline mod)
@@ -57,12 +55,12 @@ It's allowing people in the Twitch chat to vote by typing numbers from 1 to 4 an
 ### How to use Twitch Integration?
 Easy
 1. First install the latest release ([Instruction here](#Installation))
-2. Open the app "TwitchChaosCompanion.exe"
-3. Log-in to your Twitch account, this will ask you if the application can read your chat messages. Accept it
-4. Then, open sm64coopdx.exe (Always keep the TwitchChaosCompanion open, if he's close he can't read chat)
-5. Host a game, with the mod on
-6. When loaded in, go into the [settings](#Settings) put your Twitch username into the textbox.
-7. Close the menu and play the game, voilà!
+2. Unzip the file into the root of sm64coopdx (this will install the websocket modifier and the mod)
+3. Open the game
+4. Load a save
+5. When loaded in, go into the [settings](#Settings) and press "Use OAuth".
+6. This will open the navigator (Log-in if you are not), then press accept.
+7. Go back to sm64coopdx, close the menu and play the game, voilà!
 
 ## All the events
 ```
@@ -95,11 +93,8 @@ Easy
 - Longer events (Makes the events last two times longer)
 - Water VS Lava (Makes the lava and water change position)
 - Random inputs (Makes every input random)
-- Lag (Makes the game have roll-back)
 - Kifflom! (Makes every sound effect "Kifflom")
 - Mute (Makes the game's music stop)
-- Fake Random Teleport (Executes the "Random Teleport" effect, except that you will go back where you were) [2 TP]
-- Fake Fake Random teleport (Executes the "Fake Random teleport" effect, except that you will go back where you were) [3 TP]
 - First Person (Makes the player's camera into Mario's head)
 - Coin Magnet (Makes the player a coin magnet)
 ```
