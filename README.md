@@ -24,8 +24,9 @@ D-pad Left: Enable the mod
 D-pad Right: Disable the mod
 
 ## Installation
-1. Download the [latest release](https://github.com/SamLeGamerYB/Sm64coopdx-Chaos-Mod/releases/latest).
-2. Unzip it and place the folder in ``[SM64COOPDX]\mods``
+1. Download the [latest release](https://github.com/SamLeGamerYB/Sm64coopdx-Chaos-Mod/releases/latest) of the mod
+2. Download the [SM64COOPDX Web port](https://github.com/SamLeGamerYB/sm64coopdx-https)
+3. Unzip them and place them in the folder ``[SM64COOPDX]`` (Root of the .exe)
 It should look like this:
 ```
 sm64coopdx.exe
@@ -41,8 +42,8 @@ coop.map
 4. When you are in a save with 0 stars and you read the warning, you can say "/ireadit" in the chat (default keybind: enter)
 
 ## Settings
-- You can toggle between "Offline Mod" (Random event every X seconds) or "Twitch Chaos" (Let people in the chat vote (by saying the number next to the event name) for the next event.
-- Use OAuth
+- You can toggle between "Offline Mod" (Random event every X seconds) or "Twitch Chaos" (Let people in the chat vote (by saying the numbers) for the next event.
+- Use OAuth (To log-in with [Twitch](https://twitch.tv/)
 - Timer between events
 - Length of the events
 - All events can be toggled (**!! Ones with a "*" mean they could cause an epileptic seizure!!**)
@@ -54,11 +55,10 @@ It's allowing people in the Twitch chat to vote by typing numbers from 1 to 4 an
 
 ### How to use Twitch Integration?
 Easy
-1. First install the latest release ([Instruction here](#Installation))
-2. Unzip the file into the root of sm64coopdx (this will install the websocket modifier and the mod)
+1. Complete the [installation guide](#Installation)
 3. Open the game
 4. Load a save
-5. When loaded in, go into the [settings](#Settings) and press "Use OAuth".
+5. When loaded in, go into the [settings](#Settings) and press "Use OAuth" to log-in.
 6. This will open the navigator (Log-in if you are not), then press accept.
 7. Go back to sm64coopdx, close the menu and play the game, voilà!
 
@@ -104,7 +104,7 @@ Easy
 
 I don't know how to code, so this mod has been created by ChatGPT (Sorry)
 
-Windows (Windows 8, Windows 10 and Windows 11) only so far
+**Windows** (Windows 8, Windows 10 and Windows 11) **only** so far
 
 If you want to add a new event [click here](https://github.com/SamLeGamerYB/Sm64coopdx-Chaos-Mod/issues/new?labels=Event%20Req.)
 
@@ -113,3 +113,6 @@ If you want to add a new event [click here](https://github.com/SamLeGamerYB/Sm64
 - [x] Twitch voting system
 - [x] Seizure warning
 - [ ] Speedrun.com Category
+
+
+###### ~The End~
