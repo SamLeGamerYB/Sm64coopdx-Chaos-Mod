@@ -1,6 +1,8 @@
 # Sm64coopdx Chaos Mod
 [GTA V Chaos mod](https://www.gta5-mods.com/scripts/chaos-mod-v) to Super Mario 64
 
+### !! [SM64COOPDX Https](https://github.com/SamLeGamerYB/sm64coopdx-https) is required !!
+
 **THIS MOD IS MEANT FOR SINGLEPLAYER ONLY, MULTIPLAYERS ARE UNTESTED AND REALLY BUGGY**
 
 **Installing this mod will modifiy the gamefiles to have access to websocket** (This will do nothing for you execpt helping other modders)
